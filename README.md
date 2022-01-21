@@ -33,7 +33,5 @@
 </p>
 
 
-<div>
   [![Linkedin: Moshe Asulin](https://img.shields.io/badge/-Moshe%20Asulin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshe-asulin-75743a15b/)](https://www.linkedin.com/in/moshe-asulin-75743a15b/)
   [![GitHub Moshe1988](https://img.shields.io/github/followers/Moshe1988?label=follow&style=social)](https://github.com/Moshe1988)
-</div>
