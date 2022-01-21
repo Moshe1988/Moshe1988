@@ -5,11 +5,11 @@
     <ul>
       <li>
       <a href="https://spring.io"> Spring Boot </a>
-      <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="50">
+      <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="70">
     </li>
     <li>
       <a href="https://angular.io/">  Angular </a>
-      <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="50"> 
+      <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="70"> 
     </li>
     <li>
       <a href="https://www.java.com/">  Java </a>
