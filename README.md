@@ -1,6 +1,7 @@
 <h2> Hi there I'm Moshe Asulin 👋 </h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
+<img align='right' src="https://avatars.githubusercontent.com/u/42710756?s=96&v=4" width="230">
 
 <p>
   <em>
