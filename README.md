@@ -3,11 +3,14 @@
   <em>
     Working With:
       </br>
-    <a href="http://www.https://spring.io"> Spring Boot </a>
+    <a href="https://spring.io"> Spring Boot </a>
   <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="50">
   </br>
-    <a href="https://www.https://angular.io/">  Angular </a>
+    <a href="https://angular.io/">  Angular </a>
     <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="50"> 
+  </br>
+  <a href="https://www.java.com/">  Java </a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" width="50"> 
 </em>
 </p>
 
