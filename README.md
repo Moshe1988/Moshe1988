@@ -20,8 +20,8 @@
       <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="15" style="border-radius: 5px;"> 
     </li>
     <li>
-      <a href="https://www.mongodb.com/">  MonguDB </a>
-      <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="30"> 
+      <a href="https://www.mongodb.com/">  MongoDB </a>
+      <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="50"> 
     </li>
   </ul>
 </em>
