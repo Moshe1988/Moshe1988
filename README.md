@@ -1,8 +1,8 @@
 <h2> Hi there I'm Moshe Asulin 👋 </h2>
 <p>
   <em>
+  Working With: 
     <ul>
-        Working With:
       <li>
       <a href="https://spring.io"> Spring Boot </a>
       <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="50">
