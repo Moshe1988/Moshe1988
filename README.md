@@ -13,7 +13,7 @@
     </li>
     <li>
       <a href="https://www.java.com/">  Java </a>
-      <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-500x313.jpg" width="50"> 
+      <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-500x313.jpg" width="40"> 
     </li>
   </ul>
 </em>
