@@ -1,7 +1,7 @@
 <h2> Hi there I'm Moshe Asulin 👋 </h2>
 <p>
   <em>
-  Working With: 
+  The Tecnologies I'm Working With: 
     <ul>
       <li>
       <a href="https://www.java.com/">  Java </a>
