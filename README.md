@@ -4,6 +4,10 @@
   Working With: 
     <ul>
       <li>
+      <a href="https://www.java.com/">  Java </a>
+      <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-500x313.jpg" width="30"> 
+    </li>
+      <li>
       <a href="https://spring.io"> Spring Boot </a>
       <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="70">
     </li>
@@ -11,9 +15,9 @@
       <a href="https://angular.io/">  Angular </a>
       <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="70"> 
     </li>
-    <li>
-      <a href="https://www.java.com/">  Java </a>
-      <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-500x313.jpg" width="30"> 
+     <li>
+      <a href="https://angular.io/">  TypeScript </a>
+      <img src="http://www.w3.org/2000/svg" width="70"> 
     </li>
   </ul>
 </em>
