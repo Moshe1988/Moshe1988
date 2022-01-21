@@ -10,7 +10,7 @@
     <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="50"> 
   </br>
   <a href="https://www.java.com/">  Java </a>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" width="30"> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" width="10"> 
 </em>
 </p>
 
