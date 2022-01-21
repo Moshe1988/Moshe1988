@@ -16,8 +16,8 @@
       <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="70"> 
     </li>
      <li>
-      <a href="https://angular.io/">  TypeScript </a>
-      <img src="http://www.w3.org/2000/svg" width="70"> 
+      <a href="https://www.typescriptlang.org/">  TypeScript </a>
+      <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="70" style="border-radios: 5px"> 
     </li>
   </ul>
 </em>
