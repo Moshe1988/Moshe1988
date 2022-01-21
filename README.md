@@ -17,7 +17,7 @@
     </li>
      <li>
       <a href="https://www.typescriptlang.org/">  TypeScript </a>
-      <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="30" style="border-radius: 5px"> 
+      <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="30" style="border-radius: 50px"> 
     </li>
   </ul>
 </em>
