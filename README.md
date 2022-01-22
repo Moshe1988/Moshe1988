@@ -1,4 +1,4 @@
-<h2> Hi there I'm Moshe Asulin 👋 </h2>
+<h2> Hi  👋, I'm Moshe Asulin </h2>
 
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <img align='right' src="https://www.sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" width="350">
