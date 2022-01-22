@@ -6,7 +6,7 @@
 
 <p>
   <em>
-  Those Are The Tecnologies I'm Working With: 
+  Those Are The Technologies I'm Working With: 
     <ul>
       <li>
       <a href="https://www.java.com/">  Java </a>
