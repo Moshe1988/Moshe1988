@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
 </p>
 
-**DevOps וענן**
+**ענן ו-DevOps**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white"/>
