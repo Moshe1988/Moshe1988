@@ -1,3 +1,5 @@
+🇮🇱 [לגרסה בעברית](README.he.md)
+
 <h2>Hi 👋, I'm Moshe Asulin</h2>
 
 <img align="right" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" width="320">
