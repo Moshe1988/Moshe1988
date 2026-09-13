@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-🇺🇸 [English version](README.md)
+🇺🇸 [English](README.md)
 
 <h2>היי 👋, אני משה אסולין</h2>
 
