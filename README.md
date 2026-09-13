@@ -1,4 +1,4 @@
-🇮🇱 [לגרסה בעברית](README.he.md)
+🇮🇱 [עברית](README.he.md)
 
 <h2>Hi 👋, I'm Moshe Asulin</h2>
 
